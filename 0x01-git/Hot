@@ -1,6 +1,0 @@
-[master 6cea7cc] fix
- Date: Sun Jul 23 06:59:20 2023 -0700
- 4 files changed, 9 insertions(+), 3 deletions(-)
- create mode 100644 0x01-git/Hot fix
- delete mode 100644 0x01-git/js/index.js
- delete mode 100644 0x01-git/js/main.js
